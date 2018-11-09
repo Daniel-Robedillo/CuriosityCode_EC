@@ -80,6 +80,4 @@ arc(220,310,70,70,radians(0),radians(90));
 stroke(0);
 strokeWeight(5);
 arc(290,310,70,70,radians(90),radians(180));
-
-//save function
-save("DANIEL.Curiosity.Drawing.png");
+ 
